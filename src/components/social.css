@@ -1,0 +1,13 @@
+.cols-icon{
+  /* border: 2px solid red; */
+  padding: 0.3rem;
+}
+.social-icon{
+  /* background-color: aqua; */
+  color: blue;
+  font-size: 1.8rem;
+  border:2px solid #2351DC;
+  padding: 0.3rem;
+  border-radius: 50%;
+  margin: 2px;
+}

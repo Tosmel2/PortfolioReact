@@ -1,0 +1,34 @@
+.about-us{
+  background-color: #F6F8FE;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 3rem 0 5rem 0;
+  /* border: 2px solid red; */
+  
+}
+.about-us h1{
+  font-size: 2rem;
+  font-weight: bold;
+  color: #000;
+  margin-bottom: 1rem;
+}
+.about-us p{
+  font-size: 1.2rem;
+  color: #4D4D4D;
+  line-height: 1.5rem;
+}
+
+@media screen and (max-width: 900px) {
+  .about-us{
+    margin-top: 0.7rem;
+    padding: 1.8rem 0;
+  }
+  .about-us p{
+    font-size: 1.2rem;
+    color: #4D4D4D;
+    line-height: 1.3rem;
+  }
+}

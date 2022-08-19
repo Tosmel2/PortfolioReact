@@ -1,0 +1,30 @@
+.navbar{
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* border: 2px solid red; */
+}
+.logo{
+  font-size: .6rem;
+  /* border: 2px solid blue; */
+  padding: 0 3.5rem;
+  color: #07102C;
+}
+.navLink ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* border: 2px solid green; */
+  padding: 1.5rem;
+}
+.navLink ul li{
+  list-style: none;
+  /* border: 2px solid blue; */
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #000000;
+}

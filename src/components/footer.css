@@ -1,0 +1,15 @@
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #07102C;
+  height: 30vh;
+  color: #fff;
+  padding: 20px;
+  position: relative;
+}
+.footer .bord{
+  border: 0.4px solid #FFFFFF;
+  width: 30%;
+}

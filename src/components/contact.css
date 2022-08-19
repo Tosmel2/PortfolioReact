@@ -1,0 +1,86 @@
+.contactSection{
+  display: flex;
+  justify-content: center;
+}
+.contactTouch {
+  width: 52%;
+  padding: 3.5rem;
+}
+.contactTouch h1{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.contactTouch p, span{
+  font-size: 1rem;
+  color: #4D4D4D;
+  line-height: 1.5rem;
+}
+.contactForm{
+  background-color: #1C41B0;
+  width: 48%;
+  padding: 3.5rem;
+}
+.contactForm h1{
+  font-size: 1.7rem;
+  font-weight: bold;
+  color: rgba(255, 255, 255);
+  padding-bottom: 1rem;
+}
+.contactForm h2{
+  font-size: 1.3rem;
+  color: rgba(255, 255, 255, 0.7);
+}
+.contactForm label{
+  font-size: 0.8rem;
+  color: white;
+}
+.contactForm input{
+  width: 70%;
+  outline: none;
+}
+.contactForm textarea{
+  width: 70%;
+  border-radius: 5px;
+  outline: none;
+}
+
+#form input{
+  border-radius: 5px;
+  border-color: #e1e1e1;
+  height: 40px;
+}
+.contactForm button {
+  text-align: center;
+  background-color: #07102C;
+  color: #fff;
+  padding: 0.6rem;
+  border-radius: 5px;
+}
+button:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.mailIcon{
+  color: #198434;
+  font-size: 1.5rem;
+}
+
+@media screen and (max-width: 900px) {
+  .contactSection{
+    flex-direction: column;
+  }
+  .contactTouch {
+    padding: 1rem;
+    width: 100%;
+  }
+  .contactForm{
+    background-color: #1C41B0;
+    width: 100%;
+    padding: 1.5rem;
+  }
+  .contactForm{
+    width: 100%;
+  }
+}
