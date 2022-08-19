@@ -17,7 +17,9 @@
   line-height: 1.5rem;
 }
 .contactForm{
-  background-color: #1C41B0;
+  background-color: #198754;
+  /* background-color: #da7939; */
+  /* background-color: #1C41B0; */
   width: 48%;
   padding: 3.5rem;
 }
@@ -76,7 +78,9 @@ button:hover {
     width: 100%;
   }
   .contactForm{
-    background-color: #1C41B0;
+    background-color: #198754;
+    /* background-color: #da7939; */
+    /* background-color: #1C41B0; */
     width: 100%;
     padding: 1.5rem;
   }

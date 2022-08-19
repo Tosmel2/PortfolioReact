@@ -1,12 +1,11 @@
 .cols-icon{
-  /* border: 2px solid red; */
   padding: 0.3rem;
 }
 .social-icon{
-  /* background-color: aqua; */
-  color: blue;
+  /* color: #F3721B; */
+  color: #198754;
   font-size: 1.8rem;
-  border:2px solid #2351DC;
+  border:2px solid #198754;
   padding: 0.3rem;
   border-radius: 50%;
   margin: 2px;

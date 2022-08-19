@@ -16,9 +16,9 @@ const Services = () => {
         <ServicesRendered myImage={development} text={'Web Development'} smallText={'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec sollicitudin tellus. Phasellus ac nisi augue.'} />
       </div>
       <div className='bottomRendered'>
-        <ServicesRendered myImage={development} text={'Web Development'} smallText={'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec sollicitudin tellus. Phasellus ac nisi augue.'}/>
+        <ServicesRendered myImage={development} text={'QGIS Mapping'} smallText={'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec sollicitudin tellus. Phasellus ac nisi augue.'}/>
         <ServicesRendered myImage={training} text={'Training'} smallText={'I offer instructor-led training in a way that fits with the way you work. '}/>
-        <ServicesRendered myImage={web} text={'Responsive Web Design'} smallText={'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec sollicitudin tellus. Phasellus ac nisi augue.'}/>
+        <ServicesRendered myImage={web} text={'Graphics Design'} smallText={'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec sollicitudin tellus. Phasellus ac nisi augue.'}/>
       </div>
     </div>
   )
