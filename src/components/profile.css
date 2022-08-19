@@ -87,6 +87,9 @@
     border-radius: 50%;
     /* border: 2px solid blue; */
   }
+  .soso{
+    padding-top: 2rem;
+  }
   .navbox{
     display: none;
   }
