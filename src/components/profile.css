@@ -30,6 +30,7 @@
 .profileCard .rightProfile{
   width: 50%;
   height: 100%;
+  border-bottom-left-radius: 3rem;
   /* border: 2px solid blue; */
   background-color: #07102C;
   /* background-color: #f3b184; */
