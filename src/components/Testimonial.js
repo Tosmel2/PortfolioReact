@@ -11,13 +11,13 @@ const Testimonial = () => {
       </div>
       <div className='rightTestimonial'>
         <div className='subright'>
-          <div>
+          <div className='testy'>
             <img src={pix} alt='testimonial' />
           <h2>Adewale Tosin</h2>
             <p>Tosin gets things done. He’s very passionate about 
               what he does and he’s always fun to be with.</p>
           </div>
-          <div>
+          <div className='testy'>
           <img src={mine} className='img' alt='testimonial' />
           <h2>Adewale Tosin</h2>
             <p>Tosin gets things done. He’s very passionate about 
@@ -26,13 +26,13 @@ const Testimonial = () => {
         </div>
 
         <div className='subright'>
-          <div>
+          <div className='testy'>
           <img src={mine} alt='testimonial' />
           <h2>Adewale Tosin</h2>
             <p>Tosin gets things done. He’s very passionate about 
               what he does and he’s always fun to be with.</p>
           </div>
-          <div>
+          <div className='testy'>
           <img src={pix} className='img' alt='testimonial' />
             <h2>Adewale Tosin</h2>
             <p>Tosin gets things done. He’s very passionate about 
