@@ -80,3 +80,18 @@
     margin-left: 5px;
   }
 }
+/* @media screen and (max-width: 655px) {
+  .testimonial{
+    height: 1700px;
+  }
+  .rightTestimonial .subright{
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+  }
+  .testy{
+    width: 100%;
+    height: 100%;
+    padding: 0.5rem;
+  }
+} */

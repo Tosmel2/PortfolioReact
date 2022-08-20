@@ -20,10 +20,14 @@
 .profileCard .leftProfile p, h2{
   line-height: 2.1rem;
 }
+.profileCard .leftProfile h2{
+  color: #07102C;
+}
 .profileCard .leftProfile p{
   line-height: 2.1rem;
   font-size: 0.95rem;
-  color: #198754;
+  color: #054b2a;
+  /* color: #198754; */
   /* color: #F3721B; */
   /* color: #2351DC; */
 }
@@ -108,6 +112,8 @@
     line-height: 0.7rem;
     font-size: 0.95rem;
     color: #198754;
+    color: #def3e9;
+    /* color: #cff3e2; */
     /* color: #F3721B; */
     /* color: #2351DC; */
   }

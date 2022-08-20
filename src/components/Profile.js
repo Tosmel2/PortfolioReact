@@ -2,11 +2,12 @@ import React from 'react'
 import './profile.css'
 import Navbar from './Navbar';
 import mine from '../../src/assets/mine.jpeg';
+import background from '../../src/assets/background.svg';
 import Social from './Social'
 
 const Profile = () => {
   return (
-    <div className='profileCard'>
+    <div className='profileCard' style={{ backgroundImage: `url(${background})` }}>
       <div className='leftProfile'>
         <div className='navbox'>
         <Navbar />
