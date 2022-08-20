@@ -71,6 +71,9 @@
     height: 70vh;
     padding: 0.7rem 2rem;
   }
+  .profileCard .leftProfile h2{
+    line-height: 2.3rem;
+  }
   .profileCard .rightProfile{
     width: 100%;
     height: 70vh;
@@ -98,7 +101,7 @@
 @media screen and (max-width: 680px) {
   .profileCard .leftProfile{
     height: 100vh;
-    padding: 1rem 2rem;
+    padding: 2.5rem 2rem;
     /* border: 2px solid black; */
   }
   .profileCard .leftProfile p{

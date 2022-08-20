@@ -22,9 +22,9 @@
   padding: 1.5rem;
   box-shadow: 2px 3px 13px -2px rgba(36, 35, 35, 0.75);
 }
-.renderSize:hover{
+/* .renderSize:hover{
   background: #F3721B;
-}
+} */
 .renderSize h3, p{
   padding: 0.3rem;
 }
