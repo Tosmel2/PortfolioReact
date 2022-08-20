@@ -26,7 +26,7 @@
 .profileCard .leftProfile p{
   line-height: 2.1rem;
   font-size: 0.95rem;
-  color: #054b2a;
+  color: #198754;
   /* color: #198754; */
   /* color: #F3721B; */
   /* color: #2351DC; */
@@ -73,7 +73,7 @@
   .profileCard .leftProfile{
     width: 100%;
     height: 70vh;
-    padding: 0.7rem 2rem;
+    padding: 2rem;
   }
   .profileCard .leftProfile h2{
     line-height: 2.3rem;
@@ -112,7 +112,6 @@
     line-height: 0.7rem;
     font-size: 0.95rem;
     color: #198754;
-    color: #def3e9;
     /* color: #cff3e2; */
     /* color: #F3721B; */
     /* color: #2351DC; */
