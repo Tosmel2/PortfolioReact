@@ -12,10 +12,12 @@ const Profile = () => {
         <div className='navbox'>
         <Navbar />
         </div>
-        <p>HI THERE</p>
-        <p>I AM ADEWALE TOSIN</p>
-        {/* <h2>A Top-notch <span class="auto-type"></span></h2> */}
-        <h2>A Top-notch Developer,<br/> Enthusiatic Dev and Software Engineer.</h2>
+        <div className='profilePara'>
+          <p>HI THERE</p>
+          <p>I AM ADEWALE TOSIN</p>
+          {/* <h2>A Top-notch <span class="auto-type"></span></h2> */}
+          <h2>A Top-notch Developer,<br/> Enthusiatic Dev and Software Engineer.</h2>
+        </div>
         <Social />
       </div>
       <div className='rightProfile'>
