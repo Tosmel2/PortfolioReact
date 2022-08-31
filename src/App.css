@@ -5,6 +5,7 @@
   /* font-size: 90%; */
 }
 
-/* JSXStyled{
-  padding: 0 2em;
-} */
+.rowComponent{
+  max-width: 92%;
+  margin: 0 auto;
+}

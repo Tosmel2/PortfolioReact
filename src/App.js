@@ -7,6 +7,7 @@ import Testimonial from './components/Testimonial';
 import Profile from './components/Profile';
 // import Navbar from './components/Navbar';
 import Services from './components/Services';
+import Projects from './components/Projects';
 
 
 // const JSXStyled = styled.div`
@@ -21,6 +22,7 @@ function App() {
         <Profile />
         <About />
         <Services />
+        <Projects />
         <Testimonial />
         <Contact />
         <Footer />
